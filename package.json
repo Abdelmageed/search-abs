@@ -2,7 +2,7 @@
   "name": "search-abs",
   "version": "1.0.0",
   "description": "FCC - API Challenges (4)",
-  "main": "app.js",
+  "main": "routes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
